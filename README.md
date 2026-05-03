@@ -13,18 +13,22 @@
 
 ---
 
-## 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛰️ Geoscience Tools
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)
+![GMT](https://img.shields.io/badge/GMT-Generic%20Mapping%20Tools-003366?style=for-the-badge)
+![SAC](https://img.shields.io/badge/SAC-Seismic%20Analysis%20Code-222222?style=for-the-badge)
 
 ---
 
-## 🛠️ Tools & Frameworks
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+## 🤖 AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+## 🛠️ Scientific & Computing Tools
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
-![SAC](https://img.shields.io/badge/SAC-Seismic%20Analysis%20Code-222222?style=for-the-badge)
-![GMT](https://img.shields.io/badge/GMT-Generic%20Mapping%20Tools-003366?style=for-the-badge)
 
 ---
 
@@ -34,6 +38,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
